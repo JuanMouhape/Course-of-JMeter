@@ -1,0 +1,11 @@
+###Genera reporte csv de una prueba
+
+jmeter -n -t C:\Users\JuanCruzMouhape\Desktop\JMeter-Curso\Prueba_comandos.jmx -l C:\Users\JuanCruzMouhape\Desktop\JMeter-Curso\Resultados\Resultados_Prueba_Comandos.csv
+
+###Genera reporte html de una prueba
+
+jmeter -n -t C:\Users\JuanCruzMouhape\Desktop\JMeter-Curso\Prueba_comandos.jmx -l C:\Users\JuanCruzMouhape\Desktop\JMeter-Curso\Resultados\Resultados_Prueba_Comandos_Dos.csv -e -o C:\Users\JuanCruzMouhape\Desktop\JMeter-Curso\HTML_Reportes\ReportesComandos
+
+###Genera reporte html a partir de un archivo csv de salida anterior
+
+jmeter -g C:\Users\JuanCruzMouhape\Desktop\JMeter-Curso\Resultados\Resultados_Prueba_Comandos_Dos.csv -o C:\Users\JuanCruzMouhape\Desktop\JMeter-Curso\HTML_Reportes\Reporte_Assert

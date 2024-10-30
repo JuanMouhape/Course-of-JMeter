@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1713551613328,1348,DemoQA,200,OK,Usuarios 1-3,text,true,,3827,240,7,7,https://demoqa.com/elements,450,0,223
+1713551613328,450,DemoQA-0,301,Moved Permanently,Usuarios 1-3,text,true,,391,120,7,7,http://demoqa.com/elements,450,0,223
+1713551613779,897,DemoQA-1,200,OK,Usuarios 1-3,text,true,,3436,120,7,7,https://demoqa.com/elements,897,0,666
+1713551612727,1951,DemoQA,200,OK,Usuarios 1-1,text,true,,3827,240,7,7,https://demoqa.com/elements,804,0,582
+1713551612727,804,DemoQA-0,301,Moved Permanently,Usuarios 1-1,text,true,,391,120,7,7,http://demoqa.com/elements,804,0,582
+1713551613533,1145,DemoQA-1,200,OK,Usuarios 1-1,text,true,,3436,120,7,7,https://demoqa.com/elements,1145,0,912
+1713551613027,1652,DemoQA,200,OK,Usuarios 1-2,text,true,,3827,240,7,7,https://demoqa.com/elements,538,0,296
+1713551613027,538,DemoQA-0,301,Moved Permanently,Usuarios 1-2,text,true,,391,120,7,7,http://demoqa.com/elements,538,0,296
+1713551613566,1113,DemoQA-1,200,OK,Usuarios 1-2,text,true,,3436,120,7,7,https://demoqa.com/elements,1113,0,879
+1713551613627,1194,DemoQA,200,OK,Usuarios 1-4,text,true,,3827,240,7,7,https://demoqa.com/elements,476,0,232
+1713551613627,476,DemoQA-0,301,Moved Permanently,Usuarios 1-4,text,true,,391,120,7,7,http://demoqa.com/elements,476,0,232
+1713551614104,717,DemoQA-1,200,OK,Usuarios 1-4,text,true,,3436,120,7,7,https://demoqa.com/elements,717,0,480
+1713551613927,1167,DemoQA,200,OK,Usuarios 1-5,text,true,,3827,240,8,8,https://demoqa.com/elements,466,0,237
+1713551613927,466,DemoQA-0,301,Moved Permanently,Usuarios 1-5,text,true,,391,120,8,8,http://demoqa.com/elements,466,0,237
+1713551614394,700,DemoQA-1,200,OK,Usuarios 1-5,text,true,,3436,120,8,8,https://demoqa.com/elements,700,0,467
+1713551614678,453,QAForms,200,OK,Usuarios 1-1,text,true,,3824,234,9,9,https://demoqa.com/forms,223,0,0
+1713551614678,223,QAForms-0,301,Moved Permanently,Usuarios 1-1,text,true,,388,117,9,9,http://demoqa.com/forms,223,0,0
+1713551614902,229,QAForms-1,200,OK,Usuarios 1-1,text,true,,3436,117,9,9,https://demoqa.com/forms,229,0,0
+1713551614676,461,QAForms,200,OK,Usuarios 1-3,text,true,,3824,234,9,9,https://demoqa.com/forms,229,0,0
+1713551614676,229,QAForms-0,301,Moved Permanently,Usuarios 1-3,text,true,,388,117,9,9,http://demoqa.com/forms,229,0,0
+1713551614905,232,QAForms-1,200,OK,Usuarios 1-3,text,true,,3436,117,9,9,https://demoqa.com/forms,232,0,0
+1713551614679,469,QAForms,200,OK,Usuarios 1-2,text,true,,3824,234,9,9,https://demoqa.com/forms,237,0,0
+1713551614679,237,QAForms-0,301,Moved Permanently,Usuarios 1-2,text,true,,388,117,9,9,http://demoqa.com/forms,237,0,0
+1713551614916,232,QAForms-1,200,OK,Usuarios 1-2,text,true,,3436,117,9,9,https://demoqa.com/forms,232,0,0
+1713551614822,471,QAForms,200,OK,Usuarios 1-4,text,true,,3824,234,9,9,https://demoqa.com/forms,231,0,0
+1713551614822,231,QAForms-0,301,Moved Permanently,Usuarios 1-4,text,true,,388,117,9,9,http://demoqa.com/forms,231,0,0
+1713551615053,240,QAForms-1,200,OK,Usuarios 1-4,text,true,,3436,117,9,9,https://demoqa.com/forms,240,0,0
+1713551614226,1166,DemoQA,200,OK,Usuarios 1-6,text,true,,3827,240,9,9,https://demoqa.com/elements,467,0,234
+1713551614226,467,DemoQA-0,301,Moved Permanently,Usuarios 1-6,text,true,,391,120,9,9,http://demoqa.com/elements,467,0,234
+1713551614694,698,DemoQA-1,200,OK,Usuarios 1-6,text,true,,3436,120,9,9,https://demoqa.com/elements,698,0,467
+1713551615094,460,QAForms,200,OK,Usuarios 1-5,text,true,,3824,234,10,10,https://demoqa.com/forms,228,0,0
+1713551615094,228,QAForms-0,301,Moved Permanently,Usuarios 1-5,text,true,,388,117,10,10,http://demoqa.com/forms,228,0,0
+1713551615322,232,QAForms-1,200,OK,Usuarios 1-5,text,true,,3436,117,10,10,https://demoqa.com/forms,232,0,0
+1713551615132,463,QAAlerts,200,OK,Usuarios 1-1,text,true,,3832,250,10,10,https://demoqa.com/alertsWindows,224,0,0
+1713551615132,224,QAAlerts-0,301,Moved Permanently,Usuarios 1-1,text,true,,396,125,10,10,http://demoqa.com/alertsWindows,224,0,0
+1713551615356,239,QAAlerts-1,200,OK,Usuarios 1-1,text,true,,3436,125,10,10,https://demoqa.com/alertsWindows,239,0,0
+1713551615137,459,QAAlerts,200,OK,Usuarios 1-3,text,true,,3832,250,10,10,https://demoqa.com/alertsWindows,229,0,0
+1713551615137,229,QAAlerts-0,301,Moved Permanently,Usuarios 1-3,text,true,,396,125,10,10,http://demoqa.com/alertsWindows,229,0,0
+1713551615366,230,QAAlerts-1,200,OK,Usuarios 1-3,text,true,,3436,125,10,10,https://demoqa.com/alertsWindows,230,0,0
+1713551615149,471,QAAlerts,200,OK,Usuarios 1-2,text,true,,3832,250,8,8,https://demoqa.com/alertsWindows,237,0,0
+1713551615149,237,QAAlerts-0,301,Moved Permanently,Usuarios 1-2,text,true,,396,125,8,8,http://demoqa.com/alertsWindows,237,0,0
+1713551615386,234,QAAlerts-1,200,OK,Usuarios 1-2,text,true,,3436,125,8,8,https://demoqa.com/alertsWindows,234,0,0
+1713551614527,1175,DemoQA,200,OK,Usuarios 1-7,text,true,,3827,240,7,7,https://demoqa.com/elements,475,0,237
+1713551614527,475,DemoQA-0,301,Moved Permanently,Usuarios 1-7,text,true,,391,120,7,7,http://demoqa.com/elements,475,0,237
+1713551615003,699,DemoQA-1,200,OK,Usuarios 1-7,text,true,,3436,120,7,7,https://demoqa.com/elements,699,0,466
+1713551615293,473,QAAlerts,200,OK,Usuarios 1-4,text,true,,3832,250,7,7,https://demoqa.com/alertsWindows,232,0,0
+1713551615293,232,QAAlerts-0,301,Moved Permanently,Usuarios 1-4,text,true,,396,125,7,7,http://demoqa.com/alertsWindows,232,0,0
+1713551615525,241,QAAlerts-1,200,OK,Usuarios 1-4,text,true,,3436,125,7,7,https://demoqa.com/alertsWindows,241,0,0
+1713551615393,467,QAForms,200,OK,Usuarios 1-6,text,true,,3824,234,6,6,https://demoqa.com/forms,236,0,0
+1713551615393,236,QAForms-0,301,Moved Permanently,Usuarios 1-6,text,true,,388,117,6,6,http://demoqa.com/forms,236,0,0
+1713551615630,230,QAForms-1,200,OK,Usuarios 1-6,text,true,,3436,117,6,6,https://demoqa.com/forms,230,0,0
+1713551615554,463,QAAlerts,200,OK,Usuarios 1-5,text,true,,3832,250,6,6,https://demoqa.com/alertsWindows,229,0,0
+1713551615554,229,QAAlerts-0,301,Moved Permanently,Usuarios 1-5,text,true,,396,125,6,6,http://demoqa.com/alertsWindows,229,0,0
+1713551615784,233,QAAlerts-1,200,OK,Usuarios 1-5,text,true,,3436,125,6,6,https://demoqa.com/alertsWindows,233,0,0
+1713551614827,1191,DemoQA,200,OK,Usuarios 1-8,text,true,,3827,240,6,6,https://demoqa.com/elements,460,0,227
+1713551614827,460,DemoQA-0,301,Moved Permanently,Usuarios 1-8,text,true,,391,120,6,6,http://demoqa.com/elements,460,0,227
+1713551615287,731,DemoQA-1,200,OK,Usuarios 1-8,text,true,,3436,120,6,6,https://demoqa.com/elements,731,0,488
+1713551615703,468,QAForms,200,OK,Usuarios 1-7,text,true,,3824,234,5,5,https://demoqa.com/forms,238,0,0
+1713551615703,238,QAForms-0,301,Moved Permanently,Usuarios 1-7,text,true,,388,117,5,5,http://demoqa.com/forms,238,0,0
+1713551615941,230,QAForms-1,200,OK,Usuarios 1-7,text,true,,3436,117,5,5,https://demoqa.com/forms,230,0,0
+1713551615127,1170,DemoQA,200,OK,Usuarios 1-9,text,true,,3827,240,5,5,https://demoqa.com/elements,471,0,235
+1713551615127,471,DemoQA-0,301,Moved Permanently,Usuarios 1-9,text,true,,391,120,5,5,http://demoqa.com/elements,471,0,235
+1713551615599,698,DemoQA-1,200,OK,Usuarios 1-9,text,true,,3436,120,5,5,https://demoqa.com/elements,698,0,467
+1713551615861,465,QAAlerts,200,OK,Usuarios 1-6,text,true,,3832,250,5,5,https://demoqa.com/alertsWindows,232,0,0
+1713551615861,232,QAAlerts-0,301,Moved Permanently,Usuarios 1-6,text,true,,396,125,5,5,http://demoqa.com/alertsWindows,232,0,0
+1713551616093,233,QAAlerts-1,200,OK,Usuarios 1-6,text,true,,3436,125,5,5,https://demoqa.com/alertsWindows,233,0,0
+1713551616018,474,QAForms,200,OK,Usuarios 1-8,text,true,,3824,234,4,4,https://demoqa.com/forms,233,0,0
+1713551616018,233,QAForms-0,301,Moved Permanently,Usuarios 1-8,text,true,,388,117,4,4,http://demoqa.com/forms,233,0,0
+1713551616252,240,QAForms-1,200,OK,Usuarios 1-8,text,true,,3436,117,4,4,https://demoqa.com/forms,240,0,0
+1713551615426,1153,DemoQA,200,OK,Usuarios 1-10,text,true,,3827,240,4,4,https://demoqa.com/elements,454,0,228
+1713551615426,454,DemoQA-0,301,Moved Permanently,Usuarios 1-10,text,true,,391,120,4,4,http://demoqa.com/elements,454,0,228
+1713551615881,698,DemoQA-1,200,OK,Usuarios 1-10,text,true,,3436,120,4,4,https://demoqa.com/elements,698,0,468
+1713551616171,465,QAAlerts,200,OK,Usuarios 1-7,text,true,,3832,250,4,4,https://demoqa.com/alertsWindows,236,0,0
+1713551616171,236,QAAlerts-0,301,Moved Permanently,Usuarios 1-7,text,true,,396,125,4,4,http://demoqa.com/alertsWindows,236,0,0
+1713551616407,229,QAAlerts-1,200,OK,Usuarios 1-7,text,true,,3436,125,4,4,https://demoqa.com/alertsWindows,229,0,0
+1713551616298,469,QAForms,200,OK,Usuarios 1-9,text,true,,3824,234,3,3,https://demoqa.com/forms,237,0,0
+1713551616298,237,QAForms-0,301,Moved Permanently,Usuarios 1-9,text,true,,388,117,3,3,http://demoqa.com/forms,237,0,0
+1713551616535,232,QAForms-1,200,OK,Usuarios 1-9,text,true,,3436,117,3,3,https://demoqa.com/forms,232,0,0
+1713551616493,471,QAAlerts,200,OK,Usuarios 1-8,text,true,,3832,250,3,3,https://demoqa.com/alertsWindows,229,0,0
+1713551616493,229,QAAlerts-0,301,Moved Permanently,Usuarios 1-8,text,true,,396,125,3,3,http://demoqa.com/alertsWindows,229,0,0
+1713551616722,242,QAAlerts-1,200,OK,Usuarios 1-8,text,true,,3436,125,3,3,https://demoqa.com/alertsWindows,242,0,0
+1713551616579,460,QAForms,200,OK,Usuarios 1-10,text,true,,3824,234,2,2,https://demoqa.com/forms,228,0,0
+1713551616579,228,QAForms-0,301,Moved Permanently,Usuarios 1-10,text,true,,388,117,2,2,http://demoqa.com/forms,228,0,0
+1713551616807,232,QAForms-1,200,OK,Usuarios 1-10,text,true,,3436,117,2,2,https://demoqa.com/forms,232,0,0
+1713551616767,462,QAAlerts,200,OK,Usuarios 1-9,text,true,,3832,250,2,2,https://demoqa.com/alertsWindows,232,0,0
+1713551616767,232,QAAlerts-0,301,Moved Permanently,Usuarios 1-9,text,true,,396,125,2,2,http://demoqa.com/alertsWindows,232,0,0
+1713551616999,230,QAAlerts-1,200,OK,Usuarios 1-9,text,true,,3436,125,2,2,https://demoqa.com/alertsWindows,230,0,0
+1713551617040,462,QAAlerts,200,OK,Usuarios 1-10,text,true,,3832,250,1,1,https://demoqa.com/alertsWindows,229,0,0
+1713551617040,230,QAAlerts-0,301,Moved Permanently,Usuarios 1-10,text,true,,396,125,1,1,http://demoqa.com/alertsWindows,229,0,0
+1713551617270,232,QAAlerts-1,200,OK,Usuarios 1-10,text,true,,3436,125,1,1,https://demoqa.com/alertsWindows,232,0,0
